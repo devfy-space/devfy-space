@@ -1,5 +1,5 @@
 # Devfy.space 👋
-![devfy youtube banner](https://i.imgur.com/0Buqx6O.jpg)
+![devfy youtube banner](https://imgur.com/yoqEpF1)
 
 
 <!--
