@@ -1,8 +1,8 @@
-### Hi there 👋
+# Devfy.space 👋
+![devfy youtube banner](https://i.imgur.com/0Buqx6O.jpg)
+
 
 <!--
-**devfy-space/devfy-space** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
